@@ -25,7 +25,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg navbar-dark bg-black px-4 py-2">
         <div className="container-fluid">
           <Link className="navbar-brand text-danger fw-bold fs-4" to="/">
-            BookMyShow
+            BookMyShow Clone
           </Link>
 
           {/* Location Selector */}
