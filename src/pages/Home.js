@@ -257,9 +257,9 @@ const Home = () => {
       <div className="col-md-4 mb-3" data-aos="fade-up" data-aos-delay="100">
         <h5 className="text-danger">Contact Us</h5>
         <ul className="list-unstyled" style={{ fontSize: "0.9rem" }}>
-          <li>Email: support@clonebms.com</li>
-          <li>Phone: +91 99999 12345</li>
-          <li>Location: Mumbai, India</li>
+          <li>Email: mrahadansari098@gmail.com</li>
+          <li>Phone: +91 8237896992</li>
+          <li>Location: Nashik, India</li>
         </ul>
       </div>
 
